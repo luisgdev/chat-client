@@ -1,0 +1,17 @@
+{
+  "name": "cliente-chatapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "electron src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^5.0.6",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  }
+}
